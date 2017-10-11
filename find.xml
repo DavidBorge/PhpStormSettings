@@ -1,0 +1,32 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All except cache" />
+    <option name="defaultScopeName" value="All except cache" />
+    <option name="SEARCH_SCOPE" value="All except cache" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.p</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.tw</mask>
+      <mask>*.t</mask>
+      <mask>*.jpg</mask>
+      <mask>*.jp</mask>
+      <mask>*.j</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
+    </recentFileMasks>
+  </component>
+</application>
