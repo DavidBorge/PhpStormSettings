@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All except translations" />
-    <option name="defaultScopeName" value="All except translations" />
-    <option name="SEARCH_SCOPE" value="All except translations" />
+    <option name="customScope" value="All except translations &amp; cache" />
+    <option name="defaultScopeName" value="All except translations &amp; cache" />
+    <option name="SEARCH_SCOPE" value="All except translations &amp; cache" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
