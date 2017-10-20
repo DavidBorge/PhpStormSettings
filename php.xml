@@ -1,8 +1,13 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\xampp\php\php.exe" id="eac6d54d-6b93-4865-8610-4ccec6878b90" name="PHP 7" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.0.23" warning="PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp\php\ext\php_mysql.dll' - The specified module could not be found.&#10; in Unknown on line 0&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.0.23">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
           <configuration_options>
@@ -23,7 +28,7 @@
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="C:\xampp\php\extras\browscap.ini" />
-            <configuration_option name="curl.cainfo" value="" />
+            <configuration_option name="curl.cainfo" value="C:\xampp\apache\bin\curl-ca-bundle.crt" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -97,7 +102,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="-1" />
+            <configuration_option name="memory_limit" value="500M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -189,6 +194,66 @@
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="windows.show_crt_warning" value="0" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.assertions" value="1" />
@@ -200,7 +265,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -218,6 +287,7 @@
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
+            <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
             <extension name="hash" />
@@ -236,6 +306,7 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
