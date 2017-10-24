@@ -9,4 +9,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="dump" value="{{ dump() }}" description="Show value of variable/s" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
