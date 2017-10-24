@@ -14,10 +14,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.p</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*.jpg</mask>
       <mask>*.jp</mask>
       <mask>*.j</mask>
@@ -26,10 +22,14 @@
       <mask>*.xl</mask>
       <mask>*.xlf</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
