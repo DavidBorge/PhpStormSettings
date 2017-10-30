@@ -3,11 +3,11 @@
     <option name="customScope" value="All except translations &amp; cache" />
     <option name="defaultScopeName" value="All except translations &amp; cache" />
     <option name="SEARCH_SCOPE" value="All except translations &amp; cache" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -15,7 +15,6 @@
       <mask>*.p</mask>
       <mask>*.jpg</mask>
       <mask>*.jp</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.ym</mask>
@@ -28,8 +27,10 @@
       <mask>*.x</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
