@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All except translations &amp; cache" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,15 +24,15 @@
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.xlf</mask>
-      <mask>*.xl</mask>
-      <mask>*.x</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
