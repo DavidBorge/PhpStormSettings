@@ -3,7 +3,6 @@
     <option name="customScope" value="All except translations &amp; cache" />
     <option name="defaultScopeName" value="All except translations &amp; cache" />
     <option name="SEARCH_SCOPE" value="All except translations &amp; cache" />
-    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +14,6 @@
       <mask>*.p</mask>
       <mask>*.jpg</mask>
       <mask>*.jp</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.ym</mask>
       <mask>*.twig</mask>
@@ -26,11 +24,12 @@
       <mask>*.yml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.xl</mask>
       <mask>*.xlf</mask>
+      <mask>*.xl</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
