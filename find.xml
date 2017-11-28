@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All except translations, cache &amp; migrations" />
-    <option name="defaultScopeName" value="All except translations, cache &amp; migrations" />
+    <option name="customScope" value="All except cache" />
+    <option name="defaultScopeName" value="All except cache" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All except translations, cache &amp; migrations" />
+    <option name="SEARCH_SCOPE" value="All except cache" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
