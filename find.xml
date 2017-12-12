@@ -3,6 +3,7 @@
     <option name="customScope" value="All except translations, cache &amp; migrations" />
     <option name="defaultScopeName" value="All except translations, cache &amp; migrations" />
     <option name="SEARCH_SCOPE" value="All except translations, cache &amp; migrations" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
