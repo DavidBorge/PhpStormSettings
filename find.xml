@@ -3,8 +3,8 @@
     <option name="customScope" value="All except translations, cache &amp; migrations" />
     <option name="defaultScopeName" value="All except translations, cache &amp; migrations" />
     <option name="SEARCH_SCOPE" value="All except translations, cache &amp; migrations" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -23,14 +23,18 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xlg</mask>
       <mask>*.xl</mask>
       <mask>*.xlf</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ylf</mask>
+      <mask>*.ylm</mask>
+      <mask>*.yl</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
